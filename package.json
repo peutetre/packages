@@ -1,0 +1,15 @@
+{
+  "name": "packages",
+  "version": "0.0.0",
+  "description": "my packages",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/peutetre/packages.git"
+  },
+  "author": "Paul Panserrieu <paul@42loops.com> (http://42loops.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/peutetre/packages/issues"
+  },
+  "homepage": "https://peutetre.github.io/packages"
+}
